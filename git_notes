@@ -1,0 +1,8 @@
+# connect to github
+
+cd ~/Documents/yt_salary_proj
+echo "leave any comment here for the readme" >> README.md 
+git add .
+git commit -m "commit messages" 
+git remote add origin <insert https .git>
+git push -u origin master
