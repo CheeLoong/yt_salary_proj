@@ -6,3 +6,4 @@ git add .
 git commit -m "commit messages" 
 git remote add origin <insert https .git>
 git push -u origin master
+git push --set-upstream origin <branch name>
